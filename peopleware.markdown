@@ -1,7 +1,7 @@
-#Peopleware: Productive Projects and Teams (Ed. 2)
+# Peopleware: Productive Projects and Teams (Ed. 2)
 by Tom Demarco & Timothy Lister
 
-##Part I: Managing the Human Resource
+## Part I: Managing the Human Resource
   + *pg.9* There is nothing more discouraging to any worker than the sense that his own motivation is inadequate and has to be 'supplemented' by that of the boss.
   + *pg.11* If you are charged with getting the task done ... there ought to be some provision for brainstorming, investigating new methods, figuring out how to avoid doing some of the subtasks, reading, training, and just goofing off.
   + *pg.14* That's not exactly productivity -- it more like fraud -- but it's the sate of teh art for many American managers. They bully and cajole their people into long hours. They impress upon them how important the delivery date is (even though it may be totally arbitrary; the world isn't going to stop just because a project completes a month late). They trick them into accepting hopelessly tight schedules, shame them into sacrificing any and all to meet the deadline, and do anything to get them to work longer and harder.
@@ -15,8 +15,8 @@ by Tom Demarco & Timothy Lister
   + *pg.29* The decision to apply schedule pressure to a project needs to be made in much the same way you decide whether or not to punish your child: If your timing is impeccable so the justification is easily apparent, then it can help.
   + *pg.34* The manager's function is not to make people work, but make it possible for people to work.
   
-##Part II: The Office Environment
-###War Games
+## Part II: The Office Environment
+### War Games
   + Productivity Non-Factors
     1. Language
     2. Years of experience
@@ -38,7 +38,7 @@ by Tom Demarco & Timothy Lister
   + *pg.77* The next time someone proudly shows you around a newly designed office, think hard about whether it's the functionality of the space that is being touted or its appearance. All too often, it's the appearance.
 
 
-##Part III: The Right People
+## Part III: The Right People
 
   + *pg.112* A common feature of companies with the lowest turnover is widespread retraining.
   + *pg.117* In Austrailia, where striking uses up nearly as much labor time as working, there is a charming form of strike called *work to rule*. Rather than walk off the job, workers open up a fat book of procedures and announce, "Until you give us what we're asking for, we're going to work exactly to the rule." When the air traffic controllers do this, for instance, they can only land one plane every seven minutes. If doctors were to do it, an appendectomy would take a week. 
@@ -50,7 +50,7 @@ by Tom Demarco & Timothy Lister
 
   + *pg.119* **Hawthorne Efect:** Loosely stated, it says that people perform better when they're trying something new.
 
-##Part IV: Growing Productive Teams
+## Part IV: Growing Productive Teams
 
   + *pg.121* Good work experiences have always got a fair measure of challenge about them.
   + *pg.121* When a group of people fuse into a meaningful whole, the entire character of the work changes.
@@ -60,7 +60,7 @@ by Tom Demarco & Timothy Lister
   + *pg.127* Things that matter enormously prior to jell (money, status, position for advancement) matter less or not at all after jell.
   + *pg.128* The difference between a team and a clique is like the difference between a breeze and a draft.
 
-###Teamicide
+### Teamicide
   + defensive management
     + *pg.133* But once you've decided to go with a given group, your best tactic is to trust them. Any defensive measure taken to guarantee success in spite of them will only makek things worse.
   + bureaucracy
@@ -72,7 +72,7 @@ by Tom Demarco & Timothy Lister
 
   > Most organizations don't set out consciously to kill teams. They just act that way.
 
-###Open Kimono
+### Open Kimono
   + calling in well
     + *pg.144* This [calling in well] attitude is the exact opposite of defensive management. You take no steps to defend yourself from the people you've put into positions of trust. And all the people under you are in positions of trust. A person you can't trust with any autonomy is of no use to you.
   + the getaway ploy
@@ -105,7 +105,7 @@ by Tom Demarco & Timothy Lister
 
   + *pg.174* **Sociology matters more than technology or even money. It's supposed to be productive, satisfying fun to work. If it isn't then there's nothing else worth concentrating on.**
 
-##Part VI: Son of Peopleware
+## Part VI: Son of Peopleware
   + *pg.195*
   > And it should be considred that nothing is more difficult to handle, more doubtful of success, nor more dangerous to manage, than to put oneself at the head of introducing new orders. For the introducer has all those who benefit from the old orders as enemies, and he has lukewarm defenders in all those who might benefit from the new orders.
   + *pg.197* **The fundamental response to change is not logical, but emotional**
